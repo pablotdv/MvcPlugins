@@ -1,0 +1,5 @@
+D:\Projetos\Exemplos\MvcPlugins\MvcPlugins.Plugin1\bin\MvcPlugins.Plugin1.dll.config
+D:\Projetos\Exemplos\MvcPlugins\MvcPlugins.Plugin1\bin\MvcPlugins.Plugin1.dll
+D:\Projetos\Exemplos\MvcPlugins\MvcPlugins.Plugin1\bin\MvcPlugins.Plugin1.pdb
+D:\Projetos\Exemplos\MvcPlugins\MvcPlugins.Plugin1\obj\Release\MvcPlugins.Plugin1.dll
+D:\Projetos\Exemplos\MvcPlugins\MvcPlugins.Plugin1\obj\Release\MvcPlugins.Plugin1.pdb

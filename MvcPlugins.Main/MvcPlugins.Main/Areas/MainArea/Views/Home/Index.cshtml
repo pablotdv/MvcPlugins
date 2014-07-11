@@ -1,0 +1,25 @@
+﻿@model List<System.Reflection.Assembly>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Main Area</h2>
+
+<table>
+    <thead>
+        <tr>
+            <td>FullName</td>
+        </tr>
+    </thead>
+    <tbody>
+
+
+        @foreach (var assembly in Model)
+        {
+            <tr>
+                <td>@assembly.FullName</td>
+            </tr>
+        }
+
+    </tbody>
+</table>
